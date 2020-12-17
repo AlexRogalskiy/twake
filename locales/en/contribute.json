@@ -1,0 +1,16 @@
+{
+  "contributeTitle" : "How to contribute",
+  "contributeSubTitle" : "Anyone can contribute",
+  "contributeText" : "Whether you are an experienced developer who wants to improve the Twake platform or someone who just has a few minutes to give us some feedback, your input is very valuable to us. Help us make Twake better!",
+  "twakeSuccess" : "Be a part of Twake’s success",
+
+  "starGithub" : "Add a star on <a href='https://github.com/TwakeApp/Twake'>github</a>",
+  "likeAlternative" : "Like & review Twake on <a href='https://alternativeto.net/software/twake/'>alternativeto</a>",
+  "twitter" : "Tweet about us",
+  "forum" : "Be an active user in our <a href='https://community.twake.app'>forum</a>",
+  "repportIssue" : "Report bugs on <a href='https://github.com/TwakeApp/Twake/issues'>github</a>",
+  "documentation" : "Improve the <a href='https://twake.gitbook.io/twake/'>documentation</a> with us",
+  "fix" : "Fix reported issues from <a href='https://github.com/TwakeApp/Twake/issues'>github</a>",
+  "feature" : "Build new features for Twake"
+
+}
